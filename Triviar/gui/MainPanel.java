@@ -53,7 +53,7 @@ public class MainPanel extends JPanel implements ActionListener
 	 */
 	private	JPanel namePanel() 
 	{
-		JLabel label = new JLabel("QUIZZER");
+		JLabel label = new JLabel("TRIVIAR");
 		label.setFont(new Font("DejaVu Sans Mono",Font.BOLD,40));
 		
 		JPanel panel = new JPanel();
