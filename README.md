@@ -26,3 +26,7 @@ Once all the questions are answered, the programs will display all the questions
 
 
 **If you one to create your own Trivia files you must you the following format.**
+![](Triviar/resources/format.PNG)
+
+If you want more examples or just what a reference, just edit or download the test files in the resource forlder and them read them by selecting the read trivia option in the
+starting window.
