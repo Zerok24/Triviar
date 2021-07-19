@@ -1,6 +1,6 @@
 # Triviar
 
-Trivia program that allows you to create your own trivias or select a random one. Funny images and gifs are display throughout the program excetution to make it more fun!
+Trivia program that allows you to create your own trivias or select a random one. Funny images and gifs are display throughout the program execution to make it more fun!
 
 **Interaction Design**
 
