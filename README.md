@@ -2,4 +2,4 @@
 
 **Interaction Design**
 
-![](Triviar/Triviar/resources/correct.PNG)
+![](Triviar/Triviar/resources/coffee.jpg)
