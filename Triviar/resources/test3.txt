@@ -1,0 +1,26 @@
+5
+How long do elephant pregnancies last?	4	3	/resources/elephant.png
+1) 1 month
+2) 15 months
+3) 22 months
+4) 28 months
+How many teeth does an adult human have?	4	1	/resources/teeth.jpg
+1) 32
+2) 26
+3) 40
+4) None of the above
+Which country is Prague in?	4	3	/resources/prague.jpg
+1) Belgium
+2) Germany
+3) Czech Republic
+4) Switzerland
+How many national parks are in the United States?	4	2	/resources/parks.jpg
+1) 36
+2) 58
+3) 67
+4) 75
+What is the world longest river?	4	4	/resources/river.jpg
+1) Rio Grande
+2) Nile river
+3) Orinoco
+4) Amazon

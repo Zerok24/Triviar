@@ -1,0 +1,49 @@
+10
+Which country produces the most coffee in the world?	4	1	/resources/coffee.jpg
+1) Brazil
+2) Honduras
+3) Colombia
+4) Mexico
+What was the first state?	4	3	/resources/delaware.jpg
+1) Virginia
+2) New York
+3) Delaware
+4) North Carolina
+What is the capital city of Spain?	4	4	/resources/spain.png
+1) Barcelona
+2) Cataluña
+3) Salamanca
+4) Madrid
+What language has the most words?	4	2	/resources/languages.png
+1) Arabic
+2) English
+3) Spanish
+4) French
+Was this painted by Picasso?	2	2	/resources/dali.jpg
+1) True
+2) False
+What country won the very first FIFA World Cup in 1930?	4	3	/resources/cup.jpg
+1) Germany
+2) Brazil
+3) Uruguay
+4) Argentina
+Which planet has the most gravity?	4	2	/resources/planets.jpg
+1) Saturn
+2) Jupiter
+3) Earth
+4) Mars
+Which country invented tea?	4	1	/resources/tea.jpg
+1) China
+2) England
+3) Russia
+4) France
+Which European nation was said to invent hot dogs?	4	4	/resources/hotdog.jpg
+1) France
+2) UK
+3) Portugal
+4) Germany
+Which desert is the largest in the world?	4	2	/resources/desert.jpg
+1) Sonora desert
+2) Sahara desert
+3) Baklava desert
+3) Maamool desert

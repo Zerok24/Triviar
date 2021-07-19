@@ -1,0 +1,26 @@
+5
+What is "cynophobia"?	4	3	/resources/phobia.png
+1) fear of dark
+2) fear of frogs
+3) fear of dogs
+4) fear to Bernstein
+How many languages are written from right to left?	4	1	/resources/language.jpg
+1) 12
+2) 5
+3) 20
+4) 100+
+Worship of Krishna is observed by which Religious Faith?	4	2	/resources/religions.jpg	
+1) Jainism
+2) Hinduism
+3) Islam
+4) Christianity
+What is the rarest M&M color?	4	3	/resources/mm.jpg
+1) blue
+2) red
+3) brown
+4) green
+Which country consumes the most chocolate per capita?	4	1	/resources/chocolate.jpg
+1) Switzerland
+2) U.S.
+3) China
+4) India
